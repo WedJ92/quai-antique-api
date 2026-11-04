@@ -1,0 +1,11 @@
+# Fichiers à NE PAS copier dans l'image de l'API
+.git
+.env.local
+.env.*.local
+.php-version
+vendor
+var
+public/bundles
+tests
+*.md
+studi-restaurant-view.png
